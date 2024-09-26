@@ -15,7 +15,7 @@ pen.end_fill()
 
 
 pen.penup()
-pen.goto(-30, 120)
+pen.goto(-30, 230)
 pen.pendown()
 
 
@@ -26,7 +26,7 @@ pen.forward(50)
 
 
 pen.penup()
-pen.goto(-30, 120)
+pen.goto(-30, 230)
 pen.pendown()
 pen.color("green")
 pen.pensize(2)
